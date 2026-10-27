@@ -1,0 +1,10 @@
+[
+  {
+    "id": "F-107",
+    "rule": "SQL Injection",
+    "severity": "High",
+    "file": "app/routes/export.py",
+    "line": 15,
+    "message": "SQL Injection at app/routes/export.py:15"
+  }
+]

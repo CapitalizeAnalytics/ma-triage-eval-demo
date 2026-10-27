@@ -1,0 +1,10 @@
+[
+  {
+    "id": "F-102",
+    "rule": "OS Command Injection",
+    "severity": "High",
+    "file": "app/routes/ping.py",
+    "line": 12,
+    "message": "OS Command Injection at app/routes/ping.py:12"
+  }
+]

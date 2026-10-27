@@ -1,0 +1,10 @@
+[
+  {
+    "id": "F-105",
+    "rule": "SQL Injection",
+    "severity": "High",
+    "file": "tests/fixtures/seed_db.py",
+    "line": 10,
+    "message": "SQL Injection at tests/fixtures/seed_db.py:10"
+  }
+]

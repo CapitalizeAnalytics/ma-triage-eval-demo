@@ -1,0 +1,10 @@
+[
+  {
+    "id": "F-104",
+    "rule": "Path Traversal",
+    "severity": "High",
+    "file": "app/routes/files.py",
+    "line": 15,
+    "message": "Path Traversal at app/routes/files.py:15"
+  }
+]
